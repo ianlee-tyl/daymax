@@ -1,7 +1,6 @@
 # Daymax
-> Daymax is a low-cost medication reminder system for elderly (age 65+)
->
-> Topics: Medical non-adherence, C++, Python, SQL, Postman API
+Daymax is a low-cost medication reminder system for elderly made with a micro-controller, LED, alarms, and a battery.
+> Keyword: Emergency care, C++, Python, SQL, Postman API
 
 ![plot](./system_overview.png)
 
